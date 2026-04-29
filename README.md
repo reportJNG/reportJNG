@@ -1,175 +1,286 @@
 <div align="center">
 
-<!-- HERO ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Hamza%20%7C%20reportJNG&fontColor=FFFFFF&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=15" alt="Profile header" width="100%" />
+<!-- ================= HERO / HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0f172a,70:1e40af,100:38bdf8&text=reportJNG&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descAlign=50&descAlignY=58&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+modern+full-stack+web+apps;Next.js+%2B+TypeScript+%2B+PostgreSQL;Clean+UI%2C+strong+logic%2C+real+projects" alt="Typing animation" />
+<!-- TYPING INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Hamza+%F0%9F%91%8B;Full-Stack+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;I+build+clean%2C+fast%2C+modern+web+apps;Next.js+%2B+TypeScript+%2B+PostgreSQL;Build+like+a+product%2C+not+a+demo." alt="Typing SVG" />
 
-<br />
-<br />
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=reportJNG&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/reportJNG)
-[![GitHub followers](https://img.shields.io/github/followers/reportJNG?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)](https://github.com/reportJNG?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/reportJNG?style=for-the-badge&logo=github&color=3fb950&labelColor=0d1117)](https://github.com/reportJNG?tab=repositories)
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=reportJNG&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/reportJNG?style=for-the-badge&logo=github&label=Followers&labelColor=020617&color=38bdf8" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/reportJNG?style=for-the-badge&logo=github&label=Stars&labelColor=020617&color=22c55e" alt="GitHub Stars" />
+
+<br/><br/>
+
+<!-- SOCIALS -->
+<a href="https://github.com/reportJNG">
+  <img src="https://img.shields.io/badge/GitHub-reportJNG-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/hamza">
+  <img src="https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hamza@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> **“Build fast. Design clean. Improve every version.”**
 
 </div>
 
 ---
 
-## 👋 About Me
+<!-- ================= ABOUT ================= -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
 ```ts
 const hamza = {
   username: "reportJNG",
   role: "Full-Stack Developer",
   location: "Algeria 🇩🇿",
-  mainStack: ["Next.js", "React", "TypeScript", "PostgreSQL"],
-  focus: ["Clean UI", "Secure dashboards", "Database-driven apps"],
-  mindset: "Build it clean. Make it useful. Improve it daily.",
+  mainStack: ["Next.js", "React", "TypeScript", "PostgreSQL", "Prisma"],
+  focus: "Building modern, clean, production-ready web apps",
+  mindset: "Ship. Learn. Improve. Repeat.",
+  currentProject: "Centre Nautique SONATRACH",
 };
 ```
 
-<div align="center">
-
-> **“In a world of love, death means nothing.”**
-
-</div>
-
-I enjoy building polished web applications with modern frontend design, strong backend logic, and clean database structure. I like projects that feel smooth, useful, and production-ready.
+I enjoy building web applications that feel **fast**, **clean**, and **real** — not just demos.  
+My current focus is full-stack development with **Next.js**, **TypeScript**, **PostgreSQL**, and modern UI systems.
 
 ---
+
+<!-- ================= CURRENT FOCUS ================= -->
 
 ## 🚀 Current Focus
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
-      <br />
-      <strong>Shipping Apps</strong>
-      <br />
-      Building full-stack projects with real features and clean architecture.
+      <img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/>
+      <h3>Full-Stack Apps</h3>
+      <p>Building complete apps with frontend, backend, database, auth, and dashboards.</p>
     </td>
     <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />
-      <br />
-      <strong>Database Design</strong>
-      <br />
-      Working with relational models, Prisma, SQL, and optimized schemas.
+      <img src="https://img.icons8.com/fluency/96/database.png" width="60"/>
+      <h3>Database Systems</h3>
+      <p>Designing structured databases using PostgreSQL, Prisma, SQL, and Merise logic.</p>
     </td>
     <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
-      <br />
-      <strong>UI Experience</strong>
-      <br />
-      Creating smooth interfaces, dashboards, animations, and component systems.
+      <img src="https://img.icons8.com/fluency/96/design.png" width="60"/>
+      <h3>Modern UI</h3>
+      <p>Creating clean interfaces with animations, components, and smooth user experience.</p>
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- ================= TECH STACK ================= -->
+
 ## 🧰 Tech Stack
 
 <div align="center">
 
-### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-020617?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22C55E)
+![Prisma](https://img.shields.io/badge/Prisma-020617?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8)
+![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-020617?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ What I Build
+<!-- ================= FEATURED PROJECT ================= -->
+
+## 🏗️ Featured Project
 
 <div align="center">
 
-| Area | What I Like Building |
-|---|---|
-| 🖥️ Frontend | Modern dashboards, animated landing pages, clean component-based interfaces |
-| ⚙️ Backend | Auth systems, APIs, role-based access, secure application logic |
-| 🗄️ Database | PostgreSQL/MySQL schemas, relations, constraints, reports, and data models |
-| 🎨 UI/UX | Smooth layouts, dark UI, game-inspired menus, polished visual details |
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🌊 Centre Nautique SONATRACH</h3>
+      <p>
+        A full-stack management system for subscriptions, members, schedules, invoices, reports, and role-based access control.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Prisma-020617?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-020617?style=flat-square&logo=tailwind-css&logoColor=38BDF8" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
-
-## 📌 Featured Work
-
-<div align="center">
-
-<a href="https://github.com/reportJNG/Nautique-1-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reportJNG&repo=Nautique-1-&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950" alt="Nautique repository" />
-</a>
-
-<a href="https://github.com/reportJNG/Profile-V2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reportJNG&repo=Profile-V2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950" alt="Profile V2 repository" />
-</a>
-
-</div>
+```ts
+const centreNautique = {
+  type: "Full-stack web application",
+  features: [
+    "Member registration",
+    "Subscription management",
+    "Schedule management",
+    "Invoices and reports",
+    "Secure role-based dashboard",
+  ],
+  stack: ["Next.js", "React", "TypeScript", "Prisma", "PostgreSQL", "Tailwind CSS"],
+};
+```
 
 ---
 
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
-> To make the snake work, add the **Platane/snk** GitHub Action in your `reportJNG/reportJNG` profile repository and generate the SVG into the `output` branch.
-
----
+<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22C55E&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=reportJNG&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
-<br />
-<br />
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=reportJNG&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="GitHub streak" />
-
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=reportJNG&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" />
 
 </div>
 
 ---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## ⚡ Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=020617&color=CBD5E1&line=38BDF8&point=22C55E&area=true&area_color=0F172A&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+<!-- ================= SNAKE ================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-neon.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" alt="Contribution Snake" />
+</picture>
+
+</div>
+
+---
+
+<!-- ================= WORKFLOW ================= -->
+
+## 🧭 My Developer Workflow
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Idea] --> B[Design UI]
+    B --> C[Build Frontend]
+    C --> D[Connect Backend]
+    D --> E[Database Logic]
+    E --> F[Test & Fix]
+    F --> G[Deploy]
+    G --> H[Improve]
+```
+
+</div>
+
+---
+
+<!-- ================= LEARNING ================= -->
+
+## 📚 Learning Path
+
+<table>
+  <tr>
+    <td><b>Now</b></td>
+    <td>Next.js, TypeScript, Prisma, PostgreSQL, clean dashboard architecture</td>
+  </tr>
+  <tr>
+    <td><b>Improving</b></td>
+    <td>System design, authentication, database optimization, production deployment</td>
+  </tr>
+  <tr>
+    <td><b>Exploring</b></td>
+    <td>UI animation, 2.5D web interfaces, developer tooling, open-source projects</td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= MOTTO ================= -->
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">⚡<br/><b>Fast</b><br/>Ship real progress</td>
+    <td align="center">🎨<br/><b>Clean</b><br/>Design with purpose</td>
+    <td align="center">🧠<br/><b>Smart</b><br/>Think before coding</td>
+    <td align="center">🚀<br/><b>Better</b><br/>Improve every version</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= CONTACT ================= -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-reportJNG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reportJNG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza)
-[![X](https://img.shields.io/badge/X-@reportJNG-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/reportJNG)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza@email.com)
+<a href="https://github.com/reportJNG">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/hamza">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hamza@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -177,10 +288,10 @@ I enjoy building polished web applications with modern frontend design, strong b
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,50:1F6FEB,100:0D1117" width="100%" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:1e40af,100:020617&section=footer" />
 
-**Crafted with ❤️ by Hamza · reportJNG**
+### ⭐ Thanks for visiting my profile
 
-⭐ Star a repository if you find something useful.
+**Crafted with passion by `hamza · reportJNG`**
 
 </div>
