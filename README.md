@@ -33,27 +33,6 @@
 
 </div>
 
----
-
-## ✨ About Me
-
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=14" alt="Top languages" />
-
-```ts
-const hamza = {
-  username: "reportJNG",
-  role: "Full-Stack Developer",
-  location: "Algeria 🇩🇿",
-  focus: ["Next.js", "TypeScript", "PostgreSQL", "Clean UI"],
-  mindset: "Build like a product, not like a demo.",
-  status: "Always learning, always shipping.",
-};
-```
-
-I build modern web applications with a strong focus on **clean UI**, **structured code**, **real database systems**, and **production-ready user experiences**.
-
-My current direction is full-stack development using **Next.js**, **React**, **TypeScript**, **Prisma**, and **PostgreSQL**.
-
 <br clear="right"/>
 
 
