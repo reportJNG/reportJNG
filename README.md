@@ -106,8 +106,6 @@ My current direction is full-stack development using **Next.js**, **React**, **T
 
 </div>
 
-> If the snake does not show, check that the workflow file is exactly at `.github/workflows/snake.yml`, then run it manually from the **Actions** tab.
-
 
 ---
 
