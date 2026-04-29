@@ -56,30 +56,6 @@ My current direction is full-stack development using **Next.js**, **React**, **T
 
 <br clear="right"/>
 
----
-
-## 🚀 Current Focus
-
-<div align="center">
-
-| 🔵 Building | 🟣 Learning | 🟢 Improving |
-|---|---|---|
-| Full-stack web apps | System design | UI/UX polish |
-| Database-driven platforms | Scalable architecture | GitHub + deployment workflow |
-| Real project structure | Clean backend logic | Better developer habits |
-
-</div>
-
-```ts
-const currentProject = {
-  name: "Centre Nautique SONATRACH",
-  type: "Full-stack management system",
-  stack: ["Next.js", "React", "TypeScript", "Prisma", "PostgreSQL"],
-  goal: "Manage members, subscriptions, schedules, invoices and reports.",
-};
-```
-
----
 
 ## 🧰 Tech Arsenal
 
@@ -98,20 +74,6 @@ const currentProject = {
 </div>
 
 ---
-
-## 🏗️ What I Like Building
-
-<div align="center">
-
-| Area | What I Build |
-|---|---|
-| 🧩 Frontend | Modern dashboards, animated interfaces, responsive layouts |
-| ⚙️ Backend | APIs, authentication, role-based systems, database logic |
-| 🗄️ Database | PostgreSQL / MySQL schemas, relations, reports, management systems |
-| 🎨 UI/UX | Clean designs, dark themes, game-inspired interfaces, polished components |
-| 🚢 Deployment | GitHub workflows, Vercel deployment, production fixes |
-
-</div>
 
 
 
@@ -134,13 +96,7 @@ const currentProject = {
 
 <div align="center">
 
-<!-- IMPORTANT:
-Your workflow file must be here:
-.github/workflows/snake.yml
 
-The generated SVG must be pushed to the output branch.
-Then these links will work.
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
@@ -152,19 +108,6 @@ Then these links will work.
 
 > If the snake does not show, check that the workflow file is exactly at `.github/workflows/snake.yml`, then run it manually from the **Actions** tab.
 
-
-## 🎯 Developer Mindset
-
-<div align="center">
-
-```txt
-Clean code > clever code
-Real projects > fake demos
-Consistency > motivation
-Ship, test, improve, repeat
-```
-
-</div>
 
 ---
 
