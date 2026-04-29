@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- HERO WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:58A6FF&text=Remali Hamza&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20PostgreSQL&descAlign=50&descAlignY=62" alt="Remali Hamza" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:58A6FF&text=Remali_Hamza&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20PostgreSQL&descAlign=50&descAlignY=62" alt="reportJNG header" />
 
 <!-- TYPING INTRO -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=750&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Hamza+%F0%9F%91%8B;Full-Stack+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;I+build+clean%2C+fast%2C+modern+web+apps;Next.js+%2B+TypeScript+%2B+PostgreSQL;Always+shipping.+Always+improving." alt="Typing SVG" />
