@@ -1,286 +1,275 @@
+<!-- ===================================================== -->
+<!--  reportJNG GitHub Profile README                     -->
+<!--  Clean / Modern / Animated / GitHub-safe              -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<!-- ================= HERO / HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0f172a,70:1e40af,100:38bdf8&text=reportJNG&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descAlign=50&descAlignY=58&descSize=15" />
+<!-- HERO WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:58A6FF&text=reportJNG&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20PostgreSQL&descAlign=50&descAlignY=62" alt="reportJNG header" />
 
 <!-- TYPING INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Hamza+%F0%9F%91%8B;Full-Stack+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;I+build+clean%2C+fast%2C+modern+web+apps;Next.js+%2B+TypeScript+%2B+PostgreSQL;Build+like+a+product%2C+not+a+demo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=750&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Hamza+%F0%9F%91%8B;Full-Stack+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;I+build+clean%2C+fast%2C+modern+web+apps;Next.js+%2B+TypeScript+%2B+PostgreSQL;Always+shipping.+Always+improving." alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=reportJNG&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/reportJNG?style=for-the-badge&logo=github&label=Followers&labelColor=020617&color=38bdf8" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/reportJNG?style=for-the-badge&logo=github&label=Stars&labelColor=020617&color=22c55e" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/followers/reportJNG?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=0D1117" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/reportJNG?style=for-the-badge&logo=github&label=Stars&color=3FB950&labelColor=0D1117" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=reportJNG&style=for-the-badge&color=1F6FEB&label=Profile+Views" alt="Profile views" />
 
 <br/><br/>
 
 <!-- SOCIALS -->
 <a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/GitHub-reportJNG-020617?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-reportJNG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/hamza">
-  <img src="https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/hamza">
+  <img src="https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:hamza@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<br/><br/>
-
-> **“Build fast. Design clean. Improve every version.”**
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+## ✨ About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
+<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=14" alt="Top languages" />
 
 ```ts
 const hamza = {
   username: "reportJNG",
   role: "Full-Stack Developer",
   location: "Algeria 🇩🇿",
-  mainStack: ["Next.js", "React", "TypeScript", "PostgreSQL", "Prisma"],
-  focus: "Building modern, clean, production-ready web apps",
-  mindset: "Ship. Learn. Improve. Repeat.",
-  currentProject: "Centre Nautique SONATRACH",
+  focus: ["Next.js", "TypeScript", "PostgreSQL", "Clean UI"],
+  mindset: "Build like a product, not like a demo.",
+  status: "Always learning, always shipping.",
 };
 ```
 
-I enjoy building web applications that feel **fast**, **clean**, and **real** — not just demos.  
-My current focus is full-stack development with **Next.js**, **TypeScript**, **PostgreSQL**, and modern UI systems.
+I build modern web applications with a strong focus on **clean UI**, **structured code**, **real database systems**, and **production-ready user experiences**.
+
+My current direction is full-stack development using **Next.js**, **React**, **TypeScript**, **Prisma**, and **PostgreSQL**.
+
+<br clear="right"/>
 
 ---
-
-<!-- ================= CURRENT FOCUS ================= -->
 
 ## 🚀 Current Focus
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/>
-      <h3>Full-Stack Apps</h3>
-      <p>Building complete apps with frontend, backend, database, auth, and dashboards.</p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/database.png" width="60"/>
-      <h3>Database Systems</h3>
-      <p>Designing structured databases using PostgreSQL, Prisma, SQL, and Merise logic.</p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/design.png" width="60"/>
-      <h3>Modern UI</h3>
-      <p>Creating clean interfaces with animations, components, and smooth user experience.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## 🧰 Tech Stack
-
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-020617?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22C55E)
-![Prisma](https://img.shields.io/badge/Prisma-020617?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
-![MySQL](https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8)
-![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-020617?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-</div>
-
----
-
-<!-- ================= FEATURED PROJECT ================= -->
-
-## 🏗️ Featured Project
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🌊 Centre Nautique SONATRACH</h3>
-      <p>
-        A full-stack management system for subscriptions, members, schedules, invoices, reports, and role-based access control.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Prisma-020617?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-020617?style=flat-square&logo=tailwind-css&logoColor=38BDF8" />
-      </p>
-    </td>
-  </tr>
-</table>
+| 🔵 Building | 🟣 Learning | 🟢 Improving |
+|---|---|---|
+| Full-stack web apps | System design | UI/UX polish |
+| Database-driven platforms | Scalable architecture | GitHub + deployment workflow |
+| Real project structure | Clean backend logic | Better developer habits |
 
 </div>
 
 ```ts
-const centreNautique = {
-  type: "Full-stack web application",
-  features: [
-    "Member registration",
-    "Subscription management",
-    "Schedule management",
-    "Invoices and reports",
-    "Secure role-based dashboard",
-  ],
-  stack: ["Next.js", "React", "TypeScript", "Prisma", "PostgreSQL", "Tailwind CSS"],
+const currentProject = {
+  name: "Centre Nautique SONATRACH",
+  type: "Full-stack management system",
+  stack: ["Next.js", "React", "TypeScript", "Prisma", "PostgreSQL"],
+  goal: "Manage members, subscriptions, schedules, invoices and reports.",
 };
 ```
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### Core Stack
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,tailwind,html,css&theme=dark" alt="Core stack icons" />
+
+<br/><br/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,powershell,figma,mysql,php&theme=dark" alt="Tools icons" />
+
+</div>
+
+---
+
+## 🏗️ What I Like Building
+
+<div align="center">
+
+| Area | What I Build |
+|---|---|
+| 🧩 Frontend | Modern dashboards, animated interfaces, responsive layouts |
+| ⚙️ Backend | APIs, authentication, role-based systems, database logic |
+| 🗄️ Database | PostgreSQL / MySQL schemas, relations, reports, management systems |
+| 🎨 UI/UX | Clean designs, dark themes, game-inspired interfaces, polished components |
+| 🚢 Deployment | GitHub workflows, Vercel deployment, production fixes |
+
+</div>
+
+---
+
+## 📌 Featured Direction
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌊 Centre Nautique SONATRACH
+
+A full-stack platform for managing:
+
+- Members and registration files
+- Subscriptions and renewals
+- Activity schedules and time slots
+- Invoices and monthly reports
+- Role-based secure access
+
+</td>
+<td width="50%">
+
+### 🎮 Storm Lobby UI
+
+A Naruto Storm-inspired web interface focused on:
+
+- Vertical animated menu navigation
+- Dynamic background/image changes
+- Audio-triggered selection movement
+- Smooth game-style transitions
+- 2.5D / cinematic UI feeling
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22C55E&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=reportJNG&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&border_radius=14&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=reportJNG&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&border_radius=14" alt="GitHub streak" />
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=3FB950&area=true&hide_border=true&radius=14" alt="GitHub activity graph" />
 
 </div>
 
 ---
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## ⚡ Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=020617&color=CBD5E1&line=38BDF8&point=22C55E&area=true&area_color=0F172A&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-<!-- ================= SNAKE ================= -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
+<!-- IMPORTANT:
+Your workflow file must be here:
+.github/workflows/snake.yml
+
+The generated SVG must be pushed to the output branch.
+Then these links will work.
+-->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-neon.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" alt="Contribution Snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" alt="GitHub contribution snake animation" />
 </picture>
 
 </div>
 
+> If the snake does not show, check that the workflow file is exactly at `.github/workflows/snake.yml`, then run it manually from the **Actions** tab.
+
 ---
 
-<!-- ================= WORKFLOW ================= -->
+## ✅ Snake Workflow You Should Use
 
-## 🧭 My Developer Workflow
+Create this file:
+
+```txt
+.github/workflows/snake.yml
+```
+
+Then paste this:
+
+```yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: reportJNG
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+## 🎯 Developer Mindset
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Idea] --> B[Design UI]
-    B --> C[Build Frontend]
-    C --> D[Connect Backend]
-    D --> E[Database Logic]
-    E --> F[Test & Fix]
-    F --> G[Deploy]
-    G --> H[Improve]
+```txt
+Clean code > clever code
+Real projects > fake demos
+Consistency > motivation
+Ship, test, improve, repeat
 ```
 
 </div>
 
 ---
-
-<!-- ================= LEARNING ================= -->
-
-## 📚 Learning Path
-
-<table>
-  <tr>
-    <td><b>Now</b></td>
-    <td>Next.js, TypeScript, Prisma, PostgreSQL, clean dashboard architecture</td>
-  </tr>
-  <tr>
-    <td><b>Improving</b></td>
-    <td>System design, authentication, database optimization, production deployment</td>
-  </tr>
-  <tr>
-    <td><b>Exploring</b></td>
-    <td>UI animation, 2.5D web interfaces, developer tooling, open-source projects</td>
-  </tr>
-</table>
-
----
-
-<!-- ================= MOTTO ================= -->
-
-## 💡 Developer Mindset
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">⚡<br/><b>Fast</b><br/>Ship real progress</td>
-    <td align="center">🎨<br/><b>Clean</b><br/>Design with purpose</td>
-    <td align="center">🧠<br/><b>Smart</b><br/>Think before coding</td>
-    <td align="center">🚀<br/><b>Better</b><br/>Improve every version</td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ================= CONTACT ================= -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-reportJNG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/hamza">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/hamza">
+  <img src="https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:hamza@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile;Star+a+repo+if+you+find+something+useful;Let's+build+something+great" alt="Footer typing animation" />
 
 </div>
 
@@ -288,10 +277,6 @@ graph LR
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:1e40af,100:020617&section=footer" />
-
-### ⭐ Thanks for visiting my profile
-
-**Crafted with passion by `hamza · reportJNG`**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer" alt="Footer wave" />
 
 </div>
