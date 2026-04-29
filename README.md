@@ -1,117 +1,157 @@
-<!-- ===================================================== -->
-<!--  reportJNG GitHub Profile README                     -->
-<!--  Clean / Modern / Animated / GitHub-safe              -->
-<!-- ===================================================== -->
+<!-- ============================================================ -->
+<!--  Remali Hamza — GitHub Profile README  ·  reportJNG        -->
+<!--  Premium Design Edition                                      -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<!-- HERO WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:58A6FF&text=Remali-Hamza&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20PostgreSQL&descAlign=50&descAlignY=62" alt="reportJNG header" />
+<!-- ─── HERO BANNER ─── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,30:0A0A0F,60:0D1117,100:111827&text=Remali%20Hamza&fontAlign=50&fontAlignY=42&fontSize=55&fontColor=E2E8F0&animation=fadeIn&stroke=1F6FEB&strokeWidth=1&desc=Full-Stack%20Engineer%20%E2%80%94%20TypeScript%20%C2%B7%20Next.js%20%C2%B7%20PostgreSQL&descAlign=50&descAlignY=62&descSize=17&descColor=64748B" alt="Remali Hamza" />
 
-<!-- TYPING INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=750&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Hamza+%F0%9F%91%8B;Full-Stack+Developer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;I+build+clean%2C+fast%2C+modern+web+apps;Next.js+%2B+TypeScript+%2B+PostgreSQL;Always+shipping.+Always+improving." alt="Typing SVG" />
+<br/>
 
-<br/><br/>
-
-<!-- BADGES -->
-<img src="https://img.shields.io/github/followers/reportJNG?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=0D1117" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/reportJNG?style=for-the-badge&logo=github&label=Stars&color=3FB950&labelColor=0D1117" alt="GitHub stars" />
-<img src="https://komarev.com/ghpvc/?username=reportJNG&style=for-the-badge&color=1F6FEB&label=Profile+Views" alt="Profile views" />
+<!-- ─── ANIMATED INTRO ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=%3E+Engineering+products+people+love+to+use;%3E+TypeScript+%2B+Next.js+%2B+PostgreSQL+%2F+Prisma;%3E+Open+to+collabs+%E2%80%94+let%27s+build+something+real;%3E+Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%E2%80%94+shipping+globally." alt="typing animation" />
 
 <br/><br/>
 
-<!-- SOCIALS -->
-<a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/GitHub-reportJNG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/hamza">
-  <img src="https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:hamza@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<!-- ─── SOCIAL BADGES ─── -->
+[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/reportJNG)
+[![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza)
+[![Email](https://img.shields.io/badge/hamza%40email.com-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamza@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=3B82F6&label=views)](https://github.com/reportJNG)
 
 </div>
 
-<br clear="right"/>
-
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-### Core Stack
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,tailwind,html,css&theme=dark" alt="Core stack icons" />
-
-<br/><br/>
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,powershell,figma,mysql,php&theme=dark" alt="Tools icons" />
-
-</div>
+<br/>
 
 ---
 
+<br/>
 
-
-## 📊 GitHub Analytics
+## ⚡ Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&border_radius=14&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=reportJNG&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&border_radius=14" alt="GitHub streak" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+**Languages & Frameworks**
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=3FB950&area=true&hide_border=true&radius=14" alt="GitHub activity graph" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs&theme=dark&perline=5" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,php&theme=dark&perline=5" />
+
+</td>
+<td align="center" width="50%">
+
+**Data & Tooling**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mysql&theme=dark&perline=5" /><br/>
+<img src="https://skillicons.dev/icons?i=git,vercel,vscode,figma,npm&theme=dark&perline=5" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
+
+## 📊 Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=22D3EE&text_color=94A3B8&border_radius=12&rank_icon=percentile&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=1D4ED8&icon_color=0891B2&text_color=475569&border_radius=12&rank_icon=percentile&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=22D3EE&text_color=94A3B8&border_radius=12&rank_icon=percentile&include_all_commits=true" alt="stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=3B82F6&fire=22D3EE&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=1D4ED8&fire=0891B2&currStreakLabel=1D4ED8&sideLabels=475569&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8&border_radius=12" />
+  <img height="170" src="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=3B82F6&fire=22D3EE&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border_radius=12" alt="streak" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=94A3B8&border_radius=12&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=1D4ED8&text_color=475569&border_radius=12&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=94A3B8&border_radius=12&langs_count=8" alt="top langs" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=0D1117&color=64748B&line=3B82F6&point=22D3EE&area_color=1E3A5F&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F8FAFC&color=94A3B8&line=1D4ED8&point=0891B2&area_color=DBEAFE&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=0D1117&color=64748B&line=3B82F6&point=22D3EE&area_color=1E3A5F&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" alt="activity graph" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" alt="contribution snake" />
 </picture>
 
 </div>
 
+<br/>
 
 ---
 
-## 🌐 Connect With Me
+<br/>
+
+## 🏆 Achievements
 
 <div align="center">
 
-<a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/GitHub-reportJNG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/hamza">
-  <img src="https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:hamza@email.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile;Star+a+repo+if+you+find+something+useful;Let's+build+something+great" alt="Footer typing animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=reportJNG&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophies" />
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
+
+## 🤝 Connect
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer" alt="Footer wave" />
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reportJNG)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza@email.com)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=%2F%2F+Thanks+for+stopping+by.;%2F%2F+Star+a+repo+if+something+helped.;%2F%2F+Open+to+interesting+collaborations." alt="footer typing" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:111827,50:1E3A5F,100:0D1117&section=footer&reversal=false" alt="footer wave" />
 
 </div>
