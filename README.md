@@ -142,9 +142,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reportJNG)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza@email.com)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzauozx@email.com)
 
 <br/><br/>
 
