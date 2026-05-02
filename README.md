@@ -18,7 +18,7 @@
 <!-- ─── SOCIAL BADGES ─── -->
 [![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/reportJNG)
 [![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza)
-[![Email](https://img.shields.io/badge/hamza%40email.com-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamza@email.com)
+[![Email](https://img.shields.io/badge/hamzauozx%40email.com-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamzauozx@email.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=3B82F6&label=views)](https://github.com/reportJNG)
 
 </div>
