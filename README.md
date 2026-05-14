@@ -35,7 +35,7 @@
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
     width="410"
-    src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/darksouls.png"
+    src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/LINK.png"
     alt="Click Portfolio"
   />
 </a>
