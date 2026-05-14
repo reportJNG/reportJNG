@@ -23,18 +23,10 @@
 <br/><br/>
 
 <!-- ─── SOCIAL BADGES ─── -->
-<a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/%40reportJNG-GitHub-061A10?style=flat-square&logo=github&logoColor=F6D365" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true">
-  <img src="https://img.shields.io/badge/Hamza-LinkedIn-0B2B1B?style=flat-square&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" />
-</a>
-<a href="mailto:hamzauozx@gmail.com">
-  <img src="https://img.shields.io/badge/hamzauozx%40gmail.com-Email-123524?style=flat-square&logo=gmail&logoColor=F6D365" alt="Email" />
-</a>
-<a href="https://github.com/reportJNG">
-  <img src="https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=0F766E&label=views" alt="Profile views" />
-</a>
+[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-061A10?style=flat-square&logo=github&logoColor=F6D365)](https://github.com/reportJNG)
+[![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-0B2B1B?style=flat-square&logo=linkedin&logoColor=5EEAD4)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/hamzauozx%40gmail.com-Email-123524?style=flat-square&logo=gmail&logoColor=F6D365)](mailto:hamzauozx@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=0F766E&label=views)](https://github.com/reportJNG)
 
 <br/><br/>
 
@@ -137,39 +129,32 @@
   alt="Realm Stats"
 />
 
-<img
-  width="96%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reportJNG&theme=github_dark"
-  alt="Profile details"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=F6D365&icon_color=5EEAD4&text_color=BBF7D0&border_radius=16&rank_icon=percentile&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=166534&icon_color=0F766E&text_color=334155&border_radius=16&rank_icon=percentile&include_all_commits=true" />
+  <img height="174" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=F6D365&icon_color=5EEAD4&text_color=BBF7D0&border_radius=16&rank_icon=percentile&include_all_commits=true" alt="GitHub stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=F6D365&fire=5EEAD4&currStreakLabel=F6D365&sideLabels=BBF7D0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=6EE7B7&border_radius=16" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=166534&fire=0F766E&currStreakLabel=166534&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&border_radius=16" />
+  <img height="174" src="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=F6D365&fire=5EEAD4&currStreakLabel=F6D365&sideLabels=BBF7D0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=6EE7B7&border_radius=16" alt="GitHub streak" />
+</picture>
 
 <br/><br/>
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reportJNG&theme=github_dark"
-  alt="Top languages by repository"
-/>
-&nbsp;
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reportJNG&theme=github_dark"
-  alt="Top languages by commit"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=F6D365&text_color=BBF7D0&border_radius=16&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=166534&text_color=334155&border_radius=16&langs_count=8" />
+</picture>
 
 <br/><br/>
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reportJNG&theme=github_dark"
-  alt="GitHub stats"
-/>
-&nbsp;
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reportJNG&theme=github_dark&utcOffset=1"
-  alt="Productive time"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=03110A&color=BBF7D0&line=F6D365&point=5EEAD4&area_color=0F766E&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=475569&line=166534&point=0F766E&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=03110A&color=BBF7D0&line=F6D365&point=5EEAD4&area_color=0F766E&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" alt="Contribution graph" />
+</picture>
 
 <br/><br/>
 
@@ -220,17 +205,11 @@
 
 <br/>
 
-<a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/GitHub-%40reportJNG-061A10?style=for-the-badge&logo=github&logoColor=F6D365&labelColor=03110A" alt="GitHub" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-061A10?style=for-the-badge&logo=github&logoColor=F6D365&labelColor=03110A)](https://github.com/reportJNG)
 &nbsp;
-<a href="https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true">
-  <img src="https://img.shields.io/badge/LinkedIn-Hamza-0B2B1B?style=for-the-badge&logo=linkedin&logoColor=5EEAD4&labelColor=03110A" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-0B2B1B?style=for-the-badge&logo=linkedin&logoColor=5EEAD4&labelColor=03110A)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
 &nbsp;
-<a href="mailto:hamzauozx@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20talk-123524?style=for-the-badge&logo=gmail&logoColor=F6D365&labelColor=03110A" alt="Email" />
-</a>
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-123524?style=for-the-badge&logo=gmail&logoColor=F6D365&labelColor=03110A)](mailto:hamzauozx@gmail.com)
 
 <br/><br/>
 
