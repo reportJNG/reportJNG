@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ─── HERO BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=265&color=0:03120A,18:061A10,42:0B2B1B,72:0F766E,100:FDE68A&text=Remali%20Hamza&fontAlign=50&fontAlignY=39&fontSize=60&fontColor=FDE68A&animation=fadeIn&stroke=67E8F9&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=62&descSize=21&descColor=A7F3D0" alt="Remali Hamza" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:03120A,18:061A10,42:0B2B1B,72:0F766E,100:FDE68A&text=Remali%20Hamza&fontAlign=50&fontAlignY=39&fontSize=60&fontColor=FDE68A&animation=fadeIn&stroke=67E8F9&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=62&descSize=21&descColor=A7F3D0" alt="Remali Hamza" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:061A10,50:67E8F9,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:061A10,45:67E8F9,100:FDE68A" alt="divider" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
-    width="590"
+    width="620"
     src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/LINK.png"
     alt="Enter Portfolio Gate"
   />
@@ -41,7 +41,7 @@
 <br/><br/>
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1700&pause=650&color=FDE68A&center=true&vCenter=true&width=540&lines=%E2%9C%A6+ENTER+THE+PORTFOLIO+GATE+%E2%9C%A6;%E2%9C%A6+CLICK+TO+EXPLORE+%E2%9C%A6" alt="Enter Portfolio Gate" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=1650&pause=650&color=FDE68A&center=true&vCenter=true&width=570&lines=%E2%9C%A6+ENTER+THE+PORTFOLIO+GATE+%E2%9C%A6;%E2%9C%A6+CLICK+TO+EXPLORE+%E2%9C%A6" alt="Enter Portfolio Gate" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@
 </a>
 &nbsp;
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW-MY%20WORK-061A10?style=for-the-badge&labelColor=03120A&color=123524" alt="View My Work" />
+  <img src="https://img.shields.io/badge/VIEW-WORK-061A10?style=for-the-badge&labelColor=03120A&color=123524" alt="View Work" />
 </a>
 &nbsp;
 <a href="https://hamzaremali.vercel.app/" target="_blank">
@@ -62,19 +62,20 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,50:67E8F9,100:061A10" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,45:67E8F9,100:061A10" alt="divider" />
 
 <br/>
 
-## ✦ Loadout
-
+<!-- ─── LOADOUT ─── -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Loadout&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=FDE68A&animation=fadeIn" alt="Loadout" />
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1200&color=FDE68A&center=true&vCenter=true&width=300&lines=Languages+%26+Frameworks" alt="Languages and Frameworks" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=FDE68A&center=true&vCenter=true&width=300&lines=Languages+%26+Frameworks" alt="Languages and Frameworks" />
 
 <br/><br/>
 
@@ -85,7 +86,7 @@
 </td>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=300&lines=Data+%26+Tools" alt="Data and Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=300&lines=Data+%26+Tools" alt="Data and Tools" />
 
 <br/><br/>
 
@@ -107,13 +108,14 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:061A10,50:0F766E,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:061A10,45:0F766E,100:FDE68A" alt="divider" />
 
 <br/>
 
-## ✦ Realm Stats
-
+<!-- ─── REALM STATS ─── -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Realm%20Stats&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=FDE68A&animation=fadeIn" alt="Realm Stats" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=FDE68A&icon_color=67E8F9&text_color=A7F3D0&border_radius=16&rank_icon=percentile&include_all_commits=true" />
@@ -147,13 +149,14 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,50:0F766E,100:061A10" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,45:0F766E,100:061A10" alt="divider" />
 
 <br/>
 
-## ✦ Trail
-
+<!-- ─── TRAIL ─── -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Trail&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=FDE68A&animation=fadeIn" alt="Trail" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
@@ -165,13 +168,14 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:061A10,50:67E8F9,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:061A10,45:67E8F9,100:FDE68A" alt="divider" />
 
 <br/>
 
-## ✦ Relics
-
+<!-- ─── RELICS ─── -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Relics&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=FDE68A&animation=fadeIn" alt="Relics" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=reportJNG&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub trophies" />
 
@@ -179,13 +183,14 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,50:67E8F9,100:061A10" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,45:67E8F9,100:061A10" alt="divider" />
 
 <br/>
 
-## ✦ Connect
-
+<!-- ─── CONNECT ─── -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Connect&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=FDE68A&animation=fadeIn" alt="Connect" />
 
 <br/>
 
