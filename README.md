@@ -8,7 +8,7 @@
 <!-- ─── HERO BANNER ─── -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&color=0:052E1A,25:065F46,55:10B981,78:67E8F9,100:FDE68A&text=Remali%20Hamza&fontAlign=50&fontAlignY=38&fontSize=62&fontColor=FFF7D6&animation=fadeIn&stroke=065F46&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=60&descSize=21&descColor=FDE68A"
+  src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&color=0:052E1A,18:065F46,45:10B981,72:67E8F9,100:FDE68A&text=Remali%20Hamza&fontAlign=50&fontAlignY=38&fontSize=62&fontColor=FFF7D6&animation=fadeIn&stroke=FDE68A&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=60&descSize=21&descColor=FDE68A"
   alt="Remali Hamza"
 />
 
@@ -23,29 +23,21 @@
 <br/><br/>
 
 <!-- ─── SOCIAL BADGES ─── -->
-<a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/%40reportJNG-GitHub-052E1A?style=flat-square&logo=github&logoColor=FDE68A" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true">
-  <img src="https://img.shields.io/badge/Hamza-LinkedIn-065F46?style=flat-square&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" />
-</a>
-<a href="mailto:hamzauozx@gmail.com">
-  <img src="https://img.shields.io/badge/hamzauozx%40gmail.com-Email-0F766E?style=flat-square&logo=gmail&logoColor=FDE68A" alt="Email" />
-</a>
-<a href="https://github.com/reportJNG">
-  <img src="https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=10B981&label=views" alt="Profile views" />
-</a>
+[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-052E1A?style=flat-square&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
+[![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-065F46?style=flat-square&logo=linkedin&logoColor=67E8F9)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/hamzauozx%40gmail.com-Email-0F766E?style=flat-square&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=10B981&label=views)](https://github.com/reportJNG)
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:052E1A,35:10B981,70:67E8F9,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:052E1A,35:10B981,70:67E8F9,100:FDE68A" alt="divider" />
 
 <br/><br/>
 
 <!-- ─── PORTFOLIO GATE ─── -->
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
-    width="650"
+    width="620"
     src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/LINK.png"
     alt="Enter Portfolio Gate"
   />
@@ -55,7 +47,7 @@
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=1600&pause=650&color=FDE68A&center=true&vCenter=true&width=590&lines=%E2%9C%A6+ENTER+THE+PORTFOLIO+GATE+%E2%9C%A6;%E2%9C%A6+CLICK+TO+EXPLORE+%E2%9C%A6"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=1600&pause=650&color=F6C453&center=true&vCenter=true&width=570&lines=%E2%9C%A6+ENTER+THE+PORTFOLIO+GATE+%E2%9C%A6;%E2%9C%A6+CLICK+TO+EXPLORE+%E2%9C%A6"
     alt="Enter Portfolio Gate"
   />
 </a>
@@ -76,13 +68,13 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
 
 <br/><br/>
 
 <!-- ─── LOADOUT ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Loadout&fontAlign=50&fontAlignY=50&fontSize=31&fontColor=10B981&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Loadout&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
   alt="Loadout"
 />
 
@@ -91,7 +83,7 @@
 <td align="center" width="50%">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=F6C453&center=true&vCenter=true&width=320&lines=Languages+%26+Frameworks"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=F6C453&center=true&vCenter=true&width=300&lines=Languages+%26+Frameworks"
   alt="Languages and Frameworks"
 />
 
@@ -105,7 +97,7 @@
 <td align="center" width="50%">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=320&lines=Data+%26+Tools"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=300&lines=Data+%26+Tools"
   alt="Data and Tools"
 />
 
@@ -127,13 +119,13 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:052E1A,35:065F46,70:10B981,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:052E1A,35:065F46,70:10B981,100:FDE68A" alt="divider" />
 
 <br/><br/>
 
 <!-- ─── REALM STATS ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Realm%20Stats&fontAlign=50&fontAlignY=50&fontSize=31&fontColor=10B981&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Realm%20Stats&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
   alt="Realm Stats"
 />
 
@@ -173,21 +165,21 @@
 
 <br/><br/>
 
-<img
-  width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=166534&line=10B981&point=F6C453&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm"
-  alt="Contribution graph"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=052E1A&color=BBF7D0&line=10B981&point=FDE68A&area_color=065F46&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=166534&line=10B981&point=F6C453&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=166534&line=10B981&point=F6C453&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" alt="Contribution graph" />
+</picture>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
 
 <br/><br/>
 
 <!-- ─── TRAIL ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Trail&fontAlign=50&fontAlignY=50&fontSize=31&fontColor=10B981&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Trail&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
   alt="Trail"
 />
 
@@ -199,13 +191,13 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:052E1A,35:10B981,70:67E8F9,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:052E1A,35:10B981,70:67E8F9,100:FDE68A" alt="divider" />
 
 <br/><br/>
 
 <!-- ─── RELICS ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Relics&fontAlign=50&fontAlignY=50&fontSize=31&fontColor=10B981&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Relics&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
   alt="Relics"
 />
 
@@ -216,29 +208,23 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
 
 <br/><br/>
 
 <!-- ─── CONNECT ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Connect&fontAlign=50&fontAlignY=50&fontSize=31&fontColor=10B981&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Connect&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
   alt="Connect"
 />
 
 <br/>
 
-<a href="https://github.com/reportJNG">
-  <img src="https://img.shields.io/badge/GitHub-%40reportJNG-052E1A?style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=031D12" alt="GitHub" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-052E1A?style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=031D12)](https://github.com/reportJNG)
 &nbsp;
-<a href="https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true">
-  <img src="https://img.shields.io/badge/LinkedIn-Hamza-065F46?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=031D12" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-065F46?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=031D12)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
 &nbsp;
-<a href="mailto:hamzauozx@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20talk-0F766E?style=for-the-badge&logo=gmail&logoColor=FDE68A&labelColor=031D12" alt="Email" />
-</a>
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-0F766E?style=for-the-badge&logo=gmail&logoColor=FDE68A&labelColor=031D12)](mailto:hamzauozx@gmail.com)
 
 <br/><br/>
 
@@ -251,7 +237,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FDE68A,30:67E8F9,60:10B981,100:052E1A"
+  src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:FDE68A,30:67E8F9,60:10B981,100:052E1A"
   alt="footer wave"
 />
 
