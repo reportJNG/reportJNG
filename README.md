@@ -54,17 +54,14 @@
 
 <br/>
 
-<a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/START-QUEST-022C22?style=for-the-badge&labelColor=031D12&color=10B981" alt="Start Quest" />
-</a>
-&nbsp;
-<a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE-WORLD-022C22?style=for-the-badge&labelColor=031D12&color=065F46" alt="Explore World" />
-</a>
-&nbsp;
-<a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/OPEN-GATE-022C22?style=for-the-badge&labelColor=031D12&color=FACC15" alt="Open Gate" />
-</a>
+<p align="center">
+  <a href="https://hamzaremali.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🛡️_OPEN_THE_GATE-PLAY_PORTFOLIO-FACC15?style=for-the-badge&labelColor=031D12&color=FACC15" 
+      alt="Open The Portfolio Gate" 
+    />
+  </a>
+</p>
 
 <br/><br/>
 
@@ -111,13 +108,6 @@
 </tr>
 </table>
 
-<br/>
-
-<img src="https://img.shields.io/badge/TypeScript-022C22?style=for-the-badge&logo=typescript&logoColor=67E8F9&labelColor=031D12" />
-<img src="https://img.shields.io/badge/Next.js-022C22?style=for-the-badge&logo=nextdotjs&logoColor=FDE68A&labelColor=031D12" />
-<img src="https://img.shields.io/badge/PostgreSQL-022C22?style=for-the-badge&logo=postgresql&logoColor=BBF7D0&labelColor=031D12" />
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:022C22,30:065F46,60:10B981,100:FACC15" alt="divider" />
 
