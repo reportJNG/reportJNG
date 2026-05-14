@@ -61,7 +61,38 @@
 ---
 
 <br/>
+<br/>
 
+<!-- ─── PORTFOLIO BOSS GATE ─── -->
+## 🗡️ Portfolio Gate
+
+<div align="center">
+
+<a href="https://YOUR-PORTFOLIO-LINK-HERE" target="_blank">
+  <img width="96%" src="https://capsule-render.vercel.app/api?type=venom&height=195&color=0:020202,25:050505,55:111111,80:1C1917,100:B45309&text=OPEN%20THE%20PORTFOLIO%20GATE&fontAlign=50&fontAlignY=40&fontSize=34&fontColor=FDE68A&animation=fadeIn&stroke=F59E0B&strokeWidth=1&desc=%E2%9A%94%EF%B8%8F%20Enter%20the%20world%20%C2%B7%20Explore%20my%20projects%20%C2%B7%20Face%20the%20final%20build&descAlign=50&descAlignY=63&descSize=15&descColor=A8A29E" alt="Open The Portfolio Gate" />
+</a>
+
+<br/><br/>
+
+<a href="https://YOUR-PORTFOLIO-LINK-HERE" target="_blank">
+  <img src="https://img.shields.io/badge/ENTER%20GATE-Visit%20Portfolio-111111?style=for-the-badge&logo=gamemaker&logoColor=F59E0B&labelColor=020202&color=B45309" alt="Visit Portfolio" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Theme-Dark%20Fantasy-020202?style=for-the-badge&logo=steam&logoColor=F59E0B&labelColor=020202&color=1C1917" alt="Dark Fantasy Theme" />
+&nbsp;
+<img src="https://img.shields.io/badge/Quest-Available-020202?style=for-the-badge&logo=target&logoColor=FDE68A&labelColor=020202&color=1C1917" alt="Quest Available" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=F59E0B&center=true&vCenter=true&width=760&lines=%3E+The+gate+opens+to+my+interactive+portfolio;%3E+Every+project+is+a+level+crafted+with+care;%3E+Dark+UI+%2B+clean+code+%2B+real+products" alt="portfolio typing animation" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 ## 📊 Analytics
 
 <div align="center">
