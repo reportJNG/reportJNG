@@ -132,7 +132,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=F6D365&icon_color=5EEAD4&text_color=BBF7D0&border_radius=16&rank_icon=percentile&include_all_commits=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=166534&icon_color=0F766E&text_color=334155&border_radius=16&rank_icon=percentile&include_all_commits=true" />
-  <img height="174" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=F6D365&icon_color=5EEAD4&text_color=BBF7D0&border_radius=16&rank_icon=percentile&include_all_commits=true" alt="GitHub stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
