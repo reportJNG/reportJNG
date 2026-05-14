@@ -6,17 +6,19 @@
 <div align="center">
 
 <!-- ─── HERO BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=255&color=0:06140D,25:0B1F14,55:123524,78:0F766E,100:FDE68A&text=Remali%20Hamza&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=FDE68A&animation=fadeIn&stroke=67E8F9&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=61&descSize=20&descColor=A7F3D0" alt="Remali Hamza" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=255&color=0:04110A,22:071A10,48:0B2B1B,74:0F766E,100:FDE68A&text=Remali%20Hamza&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=FDE68A&animation=fadeIn&stroke=67E8F9&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=61&descSize=20&descColor=A7F3D0" alt="Remali Hamza" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=%E2%9C%A6+TypeScript+%C2%B7+Next.js+%C2%B7+PostgreSQL;%E2%9C%A6+Clean+UI+%C2%B7+Fast+Apps+%C2%B7+Real+Products;%E2%9C%A6+Think+%C2%B7+Build+%C2%B7+Learn+%C2%B7+Explore" alt="typing animation" />
+<!-- ─── INTRO ANIMATION ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=%E2%9C%A6+TypeScript+%C2%B7+Next.js+%C2%B7+PostgreSQL;%E2%9C%A6+Clean+Interfaces+%C2%B7+Fast+Products;%E2%9C%A6+Think+%C2%B7+Build+%C2%B7+Learn+%C2%B7+Explore" alt="typing animation" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-0B1F14?style=flat-square&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
-[![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-123524?style=flat-square&logo=linkedin&logoColor=67E8F9)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
-[![Email](https://img.shields.io/badge/hamzauozx%40gmail.com-Email-1F3A2D?style=flat-square&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@gmail.com)
+<!-- ─── SOCIAL BADGES ─── -->
+[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-071A10?style=flat-square&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
+[![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-0B2B1B?style=flat-square&logo=linkedin&logoColor=67E8F9)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/hamzauozx%40gmail.com-Email-123524?style=flat-square&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=0F766E&label=views)](https://github.com/reportJNG)
 
 </div>
@@ -32,22 +34,26 @@
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
-    width="455"
+    width="560"
     src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/LINK.png"
-    alt="Click Portfolio"
+    alt="Enter Portfolio Gate"
   />
 </a>
 
 <br/><br/>
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=700&color=FDE68A&center=true&vCenter=true&width=430&lines=%E2%9C%A6+CLICK+PORTFOLIO+%E2%9C%A6;%E2%9C%A6+ENTER+THE+GATE+%E2%9C%A6" alt="Click Portfolio" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1700&pause=700&color=FDE68A&center=true&vCenter=true&width=500&lines=%E2%9C%A6+ENTER+PORTFOLIO+GATE+%E2%9C%A6;%E2%9C%A6+CLICK+TO+EXPLORE+%E2%9C%A6" alt="Enter Portfolio Gate" />
 </a>
 
 <br/>
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/ENTER-PORTFOLIO-0B1F14?style=for-the-badge&labelColor=06140D&color=0F766E" alt="Enter Portfolio" />
+  <img src="https://img.shields.io/badge/ENTER-PORTFOLIO-071A10?style=for-the-badge&labelColor=04110A&color=0F766E" alt="Enter Portfolio" />
+</a>
+&nbsp;
+<a href="https://hamzaremali.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW-MY%20WORK-071A10?style=for-the-badge&labelColor=04110A&color=123524" alt="View My Work" />
 </a>
 
 </div>
@@ -124,9 +130,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=06140D&color=A7F3D0&line=FDE68A&point=67E8F9&area_color=0F766E&area=true&hide_border=true&radius=10&custom_title=Contribution+Realm" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=04110A&color=A7F3D0&line=FDE68A&point=67E8F9&area_color=0F766E&area=true&hide_border=true&radius=10&custom_title=Contribution+Realm" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=475569&line=166534&point=0F766E&area_color=BBF7D0&area=true&hide_border=true&radius=10&custom_title=Contribution+Realm" />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=06140D&color=A7F3D0&line=FDE68A&point=67E8F9&area_color=0F766E&area=true&hide_border=true&radius=10&custom_title=Contribution+Realm" alt="Contribution graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=04110A&color=A7F3D0&line=FDE68A&point=67E8F9&area_color=0F766E&area=true&hide_border=true&radius=10&custom_title=Contribution+Realm" alt="Contribution graph" />
 </picture>
 
 </div>
@@ -175,11 +181,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-0B1F14?style=for-the-badge&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
+[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-071A10?style=for-the-badge&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-123524?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-0B2B1B?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Let's%20talk-1F3A2D?style=for-the-badge&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-123524?style=for-the-badge&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@gmail.com)
 
 <br/><br/>
 
@@ -187,6 +193,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06140D,45:123524,100:0F766E&section=footer&reversal=false" alt="footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:04110A,42:123524,100:0F766E&section=footer&reversal=false" alt="footer wave" />
 
 </div>
