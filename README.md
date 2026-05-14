@@ -121,49 +121,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:052E1A,35:065F46,70:10B981,100:FDE68A" alt="divider" />
 
-<br/><br/>
-
-<!-- ─── REALM STATS ─── -->
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Realm%20Stats&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
-  alt="Realm Stats"
-/>
-
-<img
-  width="96%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reportJNG&theme=vue"
-  alt="Profile details"
-/>
-
-<br/><br/>
-
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reportJNG&theme=vue"
-  alt="Top languages by repository"
-/>
-&nbsp;
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reportJNG&theme=vue"
-  alt="Top languages by commit"
-/>
-
-<br/><br/>
-
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reportJNG&theme=vue"
-  alt="GitHub stats"
-/>
-&nbsp;
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reportJNG&theme=vue&utcOffset=1"
-  alt="Productive time"
-/>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=052E1A&color=BBF7D0&line=10B981&point=FDE68A&area_color=065F46&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" />
