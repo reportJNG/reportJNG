@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
 <!--  Remali Hamza — GitHub Profile README · reportJNG           -->
-<!--  Forest Gate Edition                                        -->
+<!--  Zelda / Forest Quest Edition                                -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -8,38 +8,38 @@
 <!-- ─── HERO BANNER ─── -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&color=0:052E1A,18:065F46,45:10B981,72:67E8F9,100:FDE68A&text=Remali%20Hamza&fontAlign=50&fontAlignY=38&fontSize=62&fontColor=FFF7D6&animation=fadeIn&stroke=FDE68A&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=60&descSize=21&descColor=FDE68A"
+  src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&color=0:022C22,18:064E3B,45:10B981,72:FACC15,100:FEF3C7&text=Remali%20Hamza&fontAlign=50&fontAlignY=38&fontSize=62&fontColor=FFF7D6&animation=fadeIn&stroke=FACC15&strokeWidth=1&desc=Full-Stack%20Engineer&descAlign=50&descAlignY=60&descSize=21&descColor=FDE68A"
   alt="Remali Hamza"
 />
 
 <br/>
 
-<!-- ─── INTRO ANIMATION ─── -->
+<!-- ─── INTRO QUEST TEXT ─── -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=780&lines=%E2%9C%A6+TypeScript+%C2%B7+Next.js+%C2%B7+PostgreSQL;%E2%9C%A6+Clean+Interfaces+%C2%B7+Fast+Products;%E2%9C%A6+Think+%C2%B7+Build+%C2%B7+Learn+%C2%B7+Explore"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=780&lines=%E2%9C%A6+TypeScript+%C2%B7+Next.js+%C2%B7+PostgreSQL;%E2%9C%A6+Building+clean+interfaces+and+fast+products;%E2%9C%A6+Think+%C2%B7+Build+%C2%B7+Learn+%C2%B7+Explore"
   alt="typing animation"
 />
 
 <br/><br/>
 
 <!-- ─── SOCIAL BADGES ─── -->
-[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-052E1A?style=flat-square&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
+[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-022C22?style=flat-square&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
 [![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-065F46?style=flat-square&logo=linkedin&logoColor=67E8F9)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/hamzauozx%40gmail.com-Email-0F766E?style=flat-square&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=10B981&label=views)](https://github.com/reportJNG)
+[![Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=10B981&label=visitors)](https://github.com/reportJNG)
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:052E1A,35:10B981,70:67E8F9,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:022C22,30:065F46,60:10B981,100:FACC15" alt="divider" />
 
 <br/><br/>
 
-<!-- ─── PORTFOLIO GATE ─── -->
+<!-- ─── PORTFOLIO FOREST GATE ─── -->
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
     width="620"
     src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/LINK.png"
-    alt="Enter Portfolio Gate"
+    alt="Enter Portfolio Forest Gate"
   />
 </a>
 
@@ -47,35 +47,35 @@
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=1600&pause=650&color=F6C453&center=true&vCenter=true&width=570&lines=%E2%9C%A6+ENTER+THE+PORTFOLIO+GATE+%E2%9C%A6;%E2%9C%A6+CLICK+TO+EXPLORE+%E2%9C%A6"
-    alt="Enter Portfolio Gate"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=1600&pause=650&color=FACC15&center=true&vCenter=true&width=650&lines=%E2%9C%A6+ENTER+THE+FOREST+GATE+%E2%9C%A6;%E2%9C%A6+BEGIN+THE+PORTFOLIO+QUEST+%E2%9C%A6;%E2%9C%A6+DISCOVER+THE+ADVENTURE+%E2%9C%A6"
+    alt="Enter Forest Gate"
   />
 </a>
 
 <br/>
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/ENTER-PORTFOLIO-052E1A?style=for-the-badge&labelColor=031D12&color=10B981" alt="Enter Portfolio" />
+  <img src="https://img.shields.io/badge/START-QUEST-022C22?style=for-the-badge&labelColor=031D12&color=10B981" alt="Start Quest" />
 </a>
 &nbsp;
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW-WORK-052E1A?style=for-the-badge&labelColor=031D12&color=065F46" alt="View Work" />
+  <img src="https://img.shields.io/badge/EXPLORE-WORLD-022C22?style=for-the-badge&labelColor=031D12&color=065F46" alt="Explore World" />
 </a>
 &nbsp;
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/OPEN-GATE-052E1A?style=for-the-badge&labelColor=031D12&color=F6C453" alt="Open Gate" />
+  <img src="https://img.shields.io/badge/OPEN-GATE-022C22?style=for-the-badge&labelColor=031D12&color=FACC15" alt="Open Gate" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,30:67E8F9,60:10B981,100:022C22" alt="divider" />
 
 <br/><br/>
 
-<!-- ─── LOADOUT ─── -->
+<!-- ─── HERO GEAR ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Loadout&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
-  alt="Loadout"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Hero%20Gear&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  alt="Hero Gear"
 />
 
 <table>
@@ -83,8 +83,8 @@
 <td align="center" width="50%">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=F6C453&center=true&vCenter=true&width=300&lines=Languages+%26+Frameworks"
-  alt="Languages and Frameworks"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=FACC15&center=true&vCenter=true&width=320&lines=Code+Weapons"
+  alt="Code Weapons"
 />
 
 <br/><br/>
@@ -97,8 +97,8 @@
 <td align="center" width="50%">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=300&lines=Data+%26+Tools"
-  alt="Data and Tools"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=320&lines=Tools+%26+Treasure"
+  alt="Tools and Treasure"
 />
 
 <br/><br/>
@@ -113,49 +113,56 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/TypeScript-052E1A?style=for-the-badge&logo=typescript&logoColor=67E8F9&labelColor=031D12" />
-<img src="https://img.shields.io/badge/Next.js-052E1A?style=for-the-badge&logo=nextdotjs&logoColor=FDE68A&labelColor=031D12" />
-<img src="https://img.shields.io/badge/PostgreSQL-052E1A?style=for-the-badge&logo=postgresql&logoColor=BBF7D0&labelColor=031D12" />
+<img src="https://img.shields.io/badge/TypeScript-022C22?style=for-the-badge&logo=typescript&logoColor=67E8F9&labelColor=031D12" />
+<img src="https://img.shields.io/badge/Next.js-022C22?style=for-the-badge&logo=nextdotjs&logoColor=FDE68A&labelColor=031D12" />
+<img src="https://img.shields.io/badge/PostgreSQL-022C22?style=for-the-badge&logo=postgresql&logoColor=BBF7D0&labelColor=031D12" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:052E1A,35:065F46,70:10B981,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:022C22,30:065F46,60:10B981,100:FACC15" alt="divider" />
 
+<br/><br/>
+
+<!-- ─── QUEST LOG ─── -->
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Quest%20Log&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  alt="Quest Log"
+/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=052E1A&color=BBF7D0&line=10B981&point=FDE68A&area_color=065F46&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=166534&line=10B981&point=F6C453&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=166534&line=10B981&point=F6C453&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Contribution+Realm" alt="Contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=022C22&color=BBF7D0&line=10B981&point=FACC15&area_color=065F46&area=true&hide_border=true&radius=12&custom_title=Hyrule+Quest+Log" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=166534&line=10B981&point=FACC15&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Hyrule+Quest+Log" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F7FEE7&color=166534&line=10B981&point=FACC15&area_color=BBF7D0&area=true&hide_border=true&radius=12&custom_title=Hyrule+Quest+Log" alt="Contribution graph" />
 </picture>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,30:67E8F9,60:10B981,100:022C22" alt="divider" />
 
 <br/><br/>
 
-<!-- ─── TRAIL ─── -->
+<!-- ─── HERO'S PATH ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Trail&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
-  alt="Trail"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Hero%27s%20Path&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  alt="Hero's Path"
 />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" alt="Contribution snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" alt="Contribution path" />
 </picture>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:052E1A,35:10B981,70:67E8F9,100:FDE68A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:022C22,30:065F46,60:10B981,100:FACC15" alt="divider" />
 
 <br/><br/>
 
-<!-- ─── RELICS ─── -->
+<!-- ─── ANCIENT RELICS ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Relics&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
-  alt="Relics"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Ancient%20Relics&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  alt="Ancient Relics"
 />
 
 <img
@@ -165,19 +172,19 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FDE68A,35:67E8F9,70:10B981,100:052E1A" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,30:67E8F9,60:10B981,100:022C22" alt="divider" />
 
 <br/><br/>
 
 <!-- ─── CONNECT ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Connect&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Send%20a%20Raven&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
   alt="Connect"
 />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-052E1A?style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=031D12)](https://github.com/reportJNG)
+[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-022C22?style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=031D12)](https://github.com/reportJNG)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-065F46?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=031D12)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
 &nbsp;
@@ -186,7 +193,7 @@
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1100&color=10B981&center=true&vCenter=true&width=640&lines=%2F%2F+Thanks+for+stopping+by.;%2F%2F+Star+a+repo+if+something+helped.;%2F%2F+Open+to+interesting+collaborations."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1100&color=10B981&center=true&vCenter=true&width=700&lines=%2F%2F+Thanks+for+visiting+the+forest.;%2F%2F+May+your+next+quest+be+legendary.;%2F%2F+Open+to+new+adventures+and+collaborations."
   alt="footer typing animation"
 />
 
@@ -194,7 +201,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:FDE68A,30:67E8F9,60:10B981,100:052E1A"
+  src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:FACC15,30:67E8F9,60:10B981,100:022C22"
   alt="footer wave"
 />
 
