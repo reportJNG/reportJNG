@@ -140,7 +140,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,30:67E8F9,60:10B981,100:022C22" alt="divider" />
 
 <br/><br/>
-
 <!-- ─── HERO'S PATH ─── -->
 <img
   src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Hero%27s%20Path&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
