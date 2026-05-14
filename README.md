@@ -1,36 +1,36 @@
 <!-- ============================================================ -->
-<!--  Remali Hamza — GitHub Profile README  ·  reportJNG        -->
-<!--  Premium Design Edition                                      -->
+<!--  Remali Hamza — GitHub Profile README · reportJNG           -->
+<!--  Dark Fantasy Portfolio Edition                             -->
 <!-- ============================================================ -->
 
 <div align="center">
 
 <!-- ─── HERO BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,30:0A0A0F,60:0D1117,100:111827&text=Remali%20Hamza&fontAlign=50&fontAlignY=42&fontSize=55&fontColor=E2E8F0&animation=fadeIn&stroke=1F6FEB&strokeWidth=1&desc=Full-Stack%20Engineer%20%E2%80%94%20TypeScript%20%C2%B7%20Next.js%20%C2%B7%20PostgreSQL&descAlign=50&descAlignY=62&descSize=17&descColor=64748B" alt="Remali Hamza" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020202,25:050505,55:111111,80:1C1917,100:B45309&text=Remali%20Hamza&fontAlign=50&fontAlignY=42&fontSize=55&fontColor=FDE68A&animation=fadeIn&stroke=F59E0B&strokeWidth=1&desc=Full-Stack%20Engineer%20%E2%80%94%20TypeScript%20%C2%B7%20Next.js%20%C2%B7%20PostgreSQL&descAlign=50&descAlignY=62&descSize=17&descColor=A8A29E" alt="Remali Hamza" />
 
 <br/>
 
 <!-- ─── ANIMATED INTRO ─── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=%3E+Engineering+products+people+love+to+use;%3E+TypeScript+%2B+Next.js+%2B+PostgreSQL+%2F+Prisma;%3E+Open+to+collabs+%E2%80%94+let%27s+build+something+real;%3E+Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%E2%80%94+shipping+globally." alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=720&lines=%3E+Engineering+products+people+love+to+use;%3E+TypeScript+%2B+Next.js+%2B+PostgreSQL+%2F+Prisma;%3E+Open+to+collabs+%E2%80%94+let%27s+build+something+real;%3E+Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%E2%80%94+shipping+globally." alt="typing animation" />
 
 <br/><br/>
 
 <!-- ─── SOCIAL BADGES ─── -->
-[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/reportJNG)
-[![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
-[![Email](https://img.shields.io/badge/hamzauozx%40email.com-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamzauozx@email.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=3B82F6&label=views)](https://github.com/reportJNG)
+[![GitHub](https://img.shields.io/badge/%40reportJNG-GitHub-050505?style=flat-square&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
+[![LinkedIn](https://img.shields.io/badge/Hamza-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=F59E0B)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/hamzauozx%40email.com-Email-1C1917?style=flat-square&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=reportJNG&style=flat-square&color=B45309&label=views)](https://github.com/reportJNG)
 
 </div>
 
 <br/>
 
-<!-- ─── DARK SOULS PORTFOLIO BUTTON ─── -->
+<!-- ─── PORTFOLIO GATE ─── -->
 <div align="center">
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
-    width="380"
+    width="390"
     src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/darksouls.png"
     alt="Click Portfolio"
   />
@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
-  <sub><b>Click Portfolio</b></sub>
+  <img src="https://img.shields.io/badge/Click-Portfolio-111111?style=for-the-badge&labelColor=020202&color=B45309" alt="Click Portfolio" />
 </a>
 
 </div>
@@ -50,7 +50,7 @@
 
 <br/>
 
-## ⚡ Stack
+## ⚔️ Stack
 
 <div align="center">
 
@@ -83,36 +83,36 @@
 
 <br/>
 
-## 📊 Analytics
+## 🕯️ Analytics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=22D3EE&text_color=94A3B8&border_radius=12&rank_icon=percentile&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=1D4ED8&icon_color=0891B2&text_color=475569&border_radius=12&rank_icon=percentile&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=22D3EE&text_color=94A3B8&border_radius=12&rank_icon=percentile&include_all_commits=true" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=FDE68A&text_color=A8A29E&border_radius=12&rank_icon=percentile&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=B45309&icon_color=92400E&text_color=44403C&border_radius=12&rank_icon=percentile&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=FDE68A&text_color=A8A29E&border_radius=12&rank_icon=percentile&include_all_commits=true" alt="stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=3B82F6&fire=22D3EE&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=1D4ED8&fire=0891B2&currStreakLabel=1D4ED8&sideLabels=475569&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8&border_radius=12" />
-  <img height="170" src="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=3B82F6&fire=22D3EE&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border_radius=12" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=F59E0B&fire=FDE68A&currStreakLabel=F59E0B&sideLabels=A8A29E&currStreakNum=FDE68A&sideNums=FDE68A&dates=78716C&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=B45309&fire=92400E&currStreakLabel=B45309&sideLabels=57534E&currStreakNum=1C1917&sideNums=1C1917&dates=A8A29E&border_radius=12" />
+  <img height="170" src="https://streak-stats.demolab.com?user=reportJNG&theme=transparent&hide_border=true&background=00000000&ring=F59E0B&fire=FDE68A&currStreakLabel=F59E0B&sideLabels=A8A29E&currStreakNum=FDE68A&sideNums=FDE68A&dates=78716C&border_radius=12" alt="streak" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=94A3B8&border_radius=12&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=1D4ED8&text_color=475569&border_radius=12&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=94A3B8&border_radius=12&langs_count=8" alt="top langs" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=A8A29E&border_radius=12&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=B45309&text_color=44403C&border_radius=12&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=A8A29E&border_radius=12&langs_count=8" alt="top langs" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=0D1117&color=64748B&line=3B82F6&point=22D3EE&area_color=1E3A5F&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=F8FAFC&color=94A3B8&line=1D4ED8&point=0891B2&area_color=DBEAFE&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=0D1117&color=64748B&line=3B82F6&point=22D3EE&area_color=1E3A5F&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" alt="activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=020202&color=A8A29E&line=F59E0B&point=FDE68A&area_color=B45309&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=FAFAF9&color=78716C&line=B45309&point=92400E&area_color=FED7AA&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=020202&color=A8A29E&line=F59E0B&point=FDE68A&area_color=B45309&area=true&hide_border=true&radius=8&custom_title=Contribution+Graph" alt="activity graph" />
 </picture>
 
 </div>
@@ -145,7 +145,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=reportJNG&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=reportJNG&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophies" />
 
 </div>
 
@@ -161,18 +161,18 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reportJNG)
+[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-050505?style=for-the-badge&logo=github&logoColor=FDE68A)](https://github.com/reportJNG)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-111111?style=for-the-badge&logo=linkedin&logoColor=F59E0B)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzauozx@email.com)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-1C1917?style=for-the-badge&logo=gmail&logoColor=FDE68A)](mailto:hamzauozx@email.com)
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=%2F%2F+Thanks+for+stopping+by.;%2F%2F+Star+a+repo+if+something+helped.;%2F%2F+Open+to+interesting+collaborations." alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=560&lines=%2F%2F+Thanks+for+stopping+by.;%2F%2F+Star+a+repo+if+something+helped.;%2F%2F+Open+to+interesting+collaborations." alt="footer typing" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:111827,50:1E3A5F,100:0D1117&section=footer&reversal=false" alt="footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:020202,50:1C1917,100:B45309&section=footer&reversal=false" alt="footer wave" />
 
 </div>
