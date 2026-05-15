@@ -140,9 +140,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" alt="Contribution path" />
 </picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:022C22,30:065F46,60:10B981,100:FACC15" alt="divider" />
-
+<br/>
 <!-- ─── ANCIENT RELICS ─── -->
 <img
   width="470"
