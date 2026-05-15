@@ -187,24 +187,9 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Open%20the%20Gate-FACC15?style=for-the-badge&logoColor=031D12&labelColor=022C22&color=FACC15)](https://hamzaremali.vercel.app/)
-
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1100&color=10B981&center=true&vCenter=true&width=700&lines=%2F%2F+Thanks+for+visiting+the+forest.;%2F%2F+May+your+next+quest+be+legendary.;%2F%2F+Open+to+new+adventures+and+collaborations."
-  alt="footer typing animation"
-/>
-
-<br/><br/>
-
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:FACC15,30:67E8F9,60:10B981,100:022C22"
   alt="footer wave"
 />
-
 </div>
