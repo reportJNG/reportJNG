@@ -35,6 +35,14 @@
 <br/><br/>
 
 <!-- ─── PORTFOLIO FOREST GATE ─── -->
+<img
+  width="420"
+  src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/portfolio-title.png"
+  alt="Portfolio title"
+/>
+
+<br/>
+
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
     width="620"
@@ -61,9 +69,12 @@
 
 <!-- ─── HERO GEAR ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Hero%20Gear&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  width="430"
+  src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/hero-gear-title.png"
   alt="Hero Gear"
 />
+
+<br/>
 
 <table>
 <tr>
@@ -105,9 +116,12 @@
 
 <!-- ─── QUEST LOG ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Quest%20Log&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  width="430"
+  src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/quest-log-title.png"
   alt="Quest Log"
 />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&bg_color=022C22&color=BBF7D0&line=10B981&point=FACC15&area_color=065F46&area=true&hide_border=true&radius=12&custom_title=Hyrule+Quest+Log" />
@@ -120,11 +134,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,30:67E8F9,60:10B981,100:022C22" alt="divider" />
 
 <br/><br/>
-<!-- ─── HERO'S PATH ─── -->
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Hero%27s%20Path&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
-  alt="Hero's Path"
-/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
@@ -140,9 +149,12 @@
 
 <!-- ─── ANCIENT RELICS ─── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Ancient%20Relics&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
+  width="470"
+  src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/ancient-relics-title.png"
   alt="Ancient Relics"
 />
+
+<br/>
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=reportJNG&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"
@@ -155,19 +167,30 @@
 
 <br/><br/>
 
-<!-- ─── CONNECT ─── -->
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20Send%20a%20Raven&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=10B981&animation=fadeIn"
-  alt="Connect"
-/>
+<!-- ─── CONTACT HUB ─── -->
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/reportJNG" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@reportJNG-022C22?style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=031D12&color=10B981" alt="GitHub" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hamza%20Remali-065F46?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=031D12&color=10B981" alt="LinkedIn" />
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:hamzauozx@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hamzauozx%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=FDE68A&labelColor=031D12&color=10B981" alt="Email" />
+  </a>
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40reportJNG-022C22?style=for-the-badge&logo=github&logoColor=FDE68A&labelColor=031D12)](https://github.com/reportJNG)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza-065F46?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=031D12)](https://linkedin.com/in/hamza-remali-6b3782375/?skipRedirect=true)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Let's%20talk-0F766E?style=for-the-badge&logo=gmail&logoColor=FDE68A&labelColor=031D12)](mailto:hamzauozx@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open%20the%20Gate-FACC15?style=for-the-badge&logoColor=031D12&labelColor=022C22&color=FACC15)](https://hamzaremali.vercel.app/)
 
 <br/><br/>
 
