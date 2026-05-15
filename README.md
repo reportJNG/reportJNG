@@ -134,13 +134,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,30:67E8F9,60:10B981,100:022C22" alt="divider" />
 
 <br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" alt="Contribution path" />
-</picture>
-<br/>
 <!-- ─── ANCIENT RELICS ─── -->
 <img
   width="470"
@@ -149,6 +142,14 @@
 />
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/snake.svg" alt="Contribution path" />
+</picture>
+<br/>
+
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=reportJNG&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"
