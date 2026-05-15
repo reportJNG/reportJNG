@@ -43,25 +43,15 @@
   />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://hamzaremali.vercel.app/" target="_blank">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=1600&pause=650&color=FACC15&center=true&vCenter=true&width=650&lines=%E2%9C%A6+ENTER+THE+FOREST+GATE+%E2%9C%A6;%E2%9C%A6+BEGIN+THE+PORTFOLIO+QUEST+%E2%9C%A6;%E2%9C%A6+DISCOVER+THE+ADVENTURE+%E2%9C%A6"
-    alt="Enter Forest Gate"
+    width="330"
+    src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/click-me-quest.png"
+    alt="Click me - Start portfolio quest"
   />
 </a>
-
-<br/>
-
-<p align="center">
-  <a href="https://hamzaremali.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/🛡️_OPEN_THE_GATE-PLAY_PORTFOLIO-FACC15?style=for-the-badge&labelColor=031D12&color=FACC15" 
-      alt="Open The Portfolio Gate" 
-    />
-  </a>
-</p>
 
 <br/><br/>
 
