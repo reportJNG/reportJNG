@@ -1,71 +1,42 @@
 <div align="center">
 
-# Hamza Remali 👋
+# Hamza Remali
 
-### Full Stack Developer • 21 • Algeria 🇩🇿
+**Full Stack Developer 🇩🇿**
 
-<img src="https://komarev.com/ghpvc/?username=reportJNG&label=Profile+Views&color=0e75b6&style=flat" />
+Web Applications • Desktop Applications • Automation Tools • Game Development
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-remali-6b3782375/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamremali10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reportJNG)
+<a href="https://www.linkedin.com/in/hamza-remali-6b3782375/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hamremali10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- Full Stack Developer from Algeria
-- Building web, desktop, and automation applications
-- Interested in scalable systems and clean architecture
-- Learning and shipping projects every week
-
----
-
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma" />
-
-### Game Development
-
-<img src="https://skillicons.dev/icons?i=godot,lua" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,nodejs,postgres,mysql,tailwind,godot,lua,git,github,linux,vscode,vercel&perline=8" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&theme=github-compact&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -75,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -83,8 +54,13 @@
 
 ## 📫 Contact
 
-- Email: **hamremali10@gmail.com**
-- LinkedIn: **linkedin.com/in/hamza-remali-6b3782375**
-- GitHub: **github.com/reportJNG**
+<div align="center">
 
+**Email**  
+hamremali10@gmail.com
+
+**LinkedIn**  
+https://www.linkedin.com/in/hamza-remali-6b3782375/
+
+</div>
 ```
