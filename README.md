@@ -17,18 +17,7 @@ Web Applications • Desktop Applications • Automation Tools • Game Developm
 </a>
 
 </div>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,nodejs,postgres,mysql,tailwind,godot,lua,git,github,linux,vscode,vercel&perline=8" />
-
-</div>
-
----
+--- ## 🛠️ Tech Stack <div align="center"> ### Frontend <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" /> ### Backend <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma" /> ### Game Development <img src="https://skillicons.dev/icons?i=godot,lua" /> ### Tools <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" /> </div> ---
 
 ## 📊 GitHub
 
@@ -63,4 +52,3 @@ hamremali10@gmail.com
 https://www.linkedin.com/in/hamza-remali-6b3782375/
 
 </div>
-```
