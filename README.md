@@ -60,8 +60,7 @@ Web Applications • Desktop Applications • Automation Tools • Game Developm
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/assets/spider-run.svg" />
 </div>
 
 ---
