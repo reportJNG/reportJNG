@@ -1,4 +1,3 @@
-```md
 <!-- Remali Hamza — GitHub Profile README -->
 
 <div align="center">
@@ -94,4 +93,3 @@ I build clean, fast, and readable apps with modern web and game tools.
 ### Simple. Fast. Readable. Built with focus. ⚡
 
 </div>
-```
