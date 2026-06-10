@@ -17,8 +17,31 @@ Web Applications • Desktop Applications • Automation Tools • Game Developm
 </a>
 
 </div>
---- 
-## 🛠️ Tech Stack <div align="center"> ### Frontend <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" /> ### Backend <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma" /> ### Game Development <img src="https://skillicons.dev/icons?i=godot,lua" /> ### Tools <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" /> </div> 
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma" />
+
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=godot,lua" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+
+</div>
+
 ---
 
 ## 📊 GitHub
@@ -43,14 +66,13 @@ Web Applications • Desktop Applications • Automation Tools • Game Developm
 
 ---
 
-## 📫 Contact
-
 <div align="center">
 
-**Email**  
-hamremali10@gmail.com
+### 📫 Contact
 
-**LinkedIn**  
-https://www.linkedin.com/in/hamza-remali-6b3782375/
+📧 **hamremali10@gmail.com**
+
+💼 <a href="https://www.linkedin.com/in/hamza-remali-6b3782375/">LinkedIn</a>
 
 </div>
+
