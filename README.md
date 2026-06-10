@@ -17,7 +17,9 @@ Web Applications • Desktop Applications • Automation Tools • Game Developm
 </a>
 
 </div>
---- ## 🛠️ Tech Stack <div align="center"> ### Frontend <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" /> ### Backend <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma" /> ### Game Development <img src="https://skillicons.dev/icons?i=godot,lua" /> ### Tools <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" /> </div> ---
+--- 
+## 🛠️ Tech Stack <div align="center"> ### Frontend <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" /> ### Backend <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma" /> ### Game Development <img src="https://skillicons.dev/icons?i=godot,lua" /> ### Tools <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" /> </div> 
+---
 
 ## 📊 GitHub
 
