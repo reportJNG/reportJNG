@@ -1,95 +1,90 @@
-<!-- Remali Hamza — GitHub Profile README -->
-
 <div align="center">
 
-# Hi, I'm Hamza Remali 👋
+# Hamza Remali 👋
 
-### 21 • Algeria 🇩🇿 • Full Stack Developer
+### Full Stack Developer • 21 • Algeria 🇩🇿
 
-I build clean, fast, and readable apps with modern web and game tools.
+<img src="https://komarev.com/ghpvc/?username=reportJNG&label=Profile+Views&color=0e75b6&style=flat" />
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@reportJNG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reportJNG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Remali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-remali-6b3782375/)
-[![Email](https://img.shields.io/badge/Email-hamremali10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamremali10@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=reportJNG&style=for-the-badge&color=blueviolet&label=Visitors)](https://github.com/reportJNG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-remali-6b3782375/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamremali10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reportJNG)
 
 </div>
 
 ---
 
-## About me
+## 🚀 About Me
 
-- **Name:** Hamza Remali
-- **Age:** 21
-- **Location:** Algeria 🇩🇿
-- **Role:** Full Stack Developer
-- **Focus:** clean UI, readable code, fast apps, useful products
+- Full Stack Developer from Algeria
+- Building web, desktop, and automation applications
+- Interested in scalable systems and clean architecture
+- Learning and shipping projects every week
 
 ---
 
-## Tech stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,nodejs,tailwind,godot,lua,git,github,vercel,vscode&theme=dark&perline=6" alt="Tech stack icons" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma" />
+
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=godot,lua" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
 
 </div>
 
 ---
 
-## What I use
-
-| Frontend | Backend | Game Dev | Tools |
-|---|---|---|---|
-| Next.js | NestJS | Godot | Git |
-| React | Node.js | Lua | GitHub |
-| TypeScript | APIs | Game logic | Vercel |
-| Tailwind CSS | Databases | Prototypes | VS Code |
-
----
-
-## GitHub score
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=reportJNG&show_icons=true&hide_border=true&theme=transparent" />
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=reportJNG&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&theme=github-compact&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reportJNG&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## Spider run
+## 🔥 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/reportJNG/reportJNG/main/.github/assets/spider-run.svg" alt="Spider animation" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=reportJNG&theme=github-compact&hide_border=true" />
 
 </div>
 
 ---
 
-## Contact
-
-- **Email:** [hamremali10@gmail.com](mailto:hamremali10@gmail.com)
-- **LinkedIn:** [Hamza Remali](https://www.linkedin.com/in/hamza-remali-6b3782375/)
-- **GitHub:** [@reportJNG](https://github.com/reportJNG)
-- **Portfolio:** [hamzaremali.vercel.app](https://hamzaremali.vercel.app/)
-
----
+## 🕷️ Contributions
 
 <div align="center">
 
-### Simple. Fast. Readable. Built with focus. ⚡
+<img src="https://raw.githubusercontent.com/reportJNG/reportJNG/output/github-contribution-grid-snake.svg" />
 
 </div>
+
+---
+
+## 📫 Contact
+
+- Email: **hamremali10@gmail.com**
+- LinkedIn: **linkedin.com/in/hamza-remali-6b3782375**
+- GitHub: **github.com/reportJNG**
+
+```
