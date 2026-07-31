@@ -15,8 +15,7 @@ Web Applications &nbsp;·&nbsp; Mobile Applications &nbsp;·&nbsp; Desktop Appli
 ### Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
 
-### Mobile
-<img src="https://skillicons.dev/icons?i=react,ts,expo" />
+
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,mongodb,prisma,redis" />
