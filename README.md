@@ -1,11 +1,13 @@
- <div align="center">
+<div align="center">
   <img src="assets/pic.jpg" width="100" height="100" style="border-radius:50%;object-fit:cover;" alt="Hamza Remali" />
 
   <h1>Hamza Remali</h1>
   <strong>Full Stack &amp; Mobile Developer 🇩🇿</strong>
 
   <p>
-    Web Applications &nbsp;·&nbsp; Mobile Applications &nbsp;·&nbsp; Desktop Applications &nbsp;·&nbsp; Automation Tools &nbsp;·&nbsp; Game Development
+    Web Applications &nbsp;·&nbsp; Mobile Applications &nbsp;·&nbsp; Desktop Applications
+    <br />
+    Automation Tools &nbsp;·&nbsp; Game Development
   </p>
 </div>
 
@@ -18,11 +20,17 @@
   <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" alt="Frontend technologies" />
 
+  <br />
+
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,mongodb,prisma,redis" alt="Backend technologies" />
 
+  <br />
+
   <h3>Game Development</h3>
   <img src="https://skillicons.dev/icons?i=godot,lua" alt="Game development technologies" />
+
+  <br />
 
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel,linux" alt="Development tools" />
@@ -36,4 +44,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
