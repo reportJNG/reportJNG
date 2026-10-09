@@ -37,8 +37,3 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="assets/spider-run.svg" width="100%" alt="Spider running animation" />
-</div>
