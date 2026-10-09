@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/pic.jpg" width="100" height="100" style="border-radius:50%;object-fit:cover;" alt="Hamza Remali" />
+  <img src="assets/link.jpg" width="100" height="100" style="border-radius:50%;object-fit:cover;" alt="Hamza Remali" />
 
   <h1>Hamza Remali</h1>
   <strong>Full Stack &amp; Mobile Developer 🇩🇿</strong>
